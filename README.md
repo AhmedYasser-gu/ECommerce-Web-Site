@@ -1,2 +1,4 @@
-# ECommerce-Web-Site
-Using React and Commerce.js
+# E-Commerce Web Site
+
+Basic tutorial friendly web shop , using React and Commerce.js
+
